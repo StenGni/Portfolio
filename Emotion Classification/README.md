@@ -3,6 +3,7 @@
 **Client:** [Content Intelligence Agency](https://www.linkedin.com/company/content-intelligence-agency-cia/posts/?feedView=all)
 **Period:** February – April 2025  
 
+
 📌 Note: For a visual overview of the project, please check the file Presentation in this repository.
 
 ## Overview  
@@ -39,4 +40,5 @@ Educational/research use only. Contact the authors for other uses.
 - [Monika Stangenberg](https://www.linkedin.com/in/monika-stangenberg-4b5790291/)
 - [Kamil Łęga](https://www.linkedin.com/in/kamil-lega-it/)
 - [Michał Bątkowski](https://www.linkedin.com/in/micha%C5%82-b%C4%85tkowski-837a8534a/)
+
 
