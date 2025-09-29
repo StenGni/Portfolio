@@ -11,6 +11,7 @@
 
 ## Overview 
 📌 Note: For a visual overview of the project, please check the file Presentation in this repository.
+
 In this project we developed a **pipeline** combining **computer vision, reinforcement learning, and robotics** to segment plant roots and control a liquid-handling robot for targeted inoculation.  
 
 - Built a **CV pipeline** (ROI extraction, segmentation, RSA extraction).  
@@ -24,4 +25,5 @@ In this project we developed a **pipeline** combining **computer vision, reinfor
 
 ## License  
 Educational/research use only. Contact the authors for other uses.
+
 
