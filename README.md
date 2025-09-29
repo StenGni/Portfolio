@@ -32,7 +32,7 @@ For now, the **projects** should give you a good idea of my skills.
 
 ---
 
-## 🚀 What’s Next  
+## What’s Next!
 
 I am currently working on a **large specialization project for [ObjectivEye](https://www.linkedin.com/company/objectiveye/posts/?feedView=all)**.  
 I will publish all the results and documentation here once it’s completed.  
