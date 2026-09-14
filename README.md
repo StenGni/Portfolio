@@ -28,6 +28,8 @@ More details in each project folder!
 This repository will also include some of the **certificates** I received after completing online courses (still being added).  
 For now, the **projects** should give you a good idea of my skills.  
 
+  Update (14/09/2026): 
+New certificate - Foundation: Introduction to LangChain - Python 
 
 
 
