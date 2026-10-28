@@ -29,7 +29,7 @@ This repository will also include some of the **certificates** I received after 
 For now, the **projects** should give you a good idea of my skills.  
 
   Update (14/09/2026): 
-New certificate - Foundation: Introduction to LangChain - Python 
+New certificate - [**Foundation: Introduction to LangChain - Python**](https://github.com/StenGni/Portfolio/blob/main/Foundation%20Introduction%20to%20LangChain%20-%20Python.pdf)
 
 
 
