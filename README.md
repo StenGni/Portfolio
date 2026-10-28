@@ -24,6 +24,7 @@ More details in each project folder!
 HACKATON
 
 In October 2026 I participated in EU Agri-Hackathon where I was in a team of 4. 
+
 Topic: Help farmers simplify how they share information and engage with value chain partners.
 - [**Solution**](https://github.com/StenGni/Portfolio/blob/main/Team-26-SlideDeck-EU-Agri-Hackathon.pdf)
 - [**Website**](https://agriculture.ec.europa.eu/vision-overview/digitalisation/eu-agri-hackathon_en)
